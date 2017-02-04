@@ -18,7 +18,7 @@ setup(
     author_email='contact@aj9.co.uk',
     url='https://github.com/aj9/HomeLightSystem',
     license=license,
-    install_requires: ['nose'],
+    install_requires=['nose'],
     packages=find_packages(exclude=('tests', 'docs'))
 )
 
