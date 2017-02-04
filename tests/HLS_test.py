@@ -1,5 +1,5 @@
 from nose.tools import *
-import NAME
+import HLS
 
 def setup():
     print "SETUP!"
